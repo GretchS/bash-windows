@@ -1,4 +1,4 @@
-![ubuntu](/docs/images/ubuntu.png)
+![ubuntu](/docs/img/ubuntu.png)
 # Guide to installing Ubuntu and bash in Windows 10
 
 1. Search for windows settings - windows icon bottom left > space bar key will open search. Search for ```Use developer features``` and open this
