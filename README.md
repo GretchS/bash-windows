@@ -64,7 +64,7 @@
     apps
     ```
 
-13. Now whenever you use Ubunut you can cd directly to your apps directory held in the Windows user folder!
+13. Now whenever you use Ubuntu you can cd directly to your apps directory held in the Windows user folder!
     ```
     cd apps
     ```
